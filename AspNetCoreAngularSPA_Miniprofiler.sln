@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28711.60
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreAngularSPA_Miniprofiler", "AspNetCoreAngularSPA_Miniprofiler\AspNetCoreAngularSPA_Miniprofiler.csproj", "{DB339E9B-E8D3-4A08-8024-F285F30C2404}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB339E9B-E8D3-4A08-8024-F285F30C2404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB339E9B-E8D3-4A08-8024-F285F30C2404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB339E9B-E8D3-4A08-8024-F285F30C2404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB339E9B-E8D3-4A08-8024-F285F30C2404}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {794926E7-912B-4514-917F-3F1AE27E4420}
+	EndGlobalSection
+EndGlobal
